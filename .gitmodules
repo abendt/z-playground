@@ -1,0 +1,3 @@
+[submodule "submodules/nakadi"]
+	path = submodules/nakadi
+	url = git@github.com:zalando/nakadi.git
