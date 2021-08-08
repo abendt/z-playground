@@ -8,4 +8,4 @@
  */
 
 rootProject.name = "zalando-project"
-include("app", "list", "utilities")
+include("app", "list", "utilities", "nakadi")

@@ -3,15 +3,14 @@
  */
 
 plugins {
-    id("zalando.project.kotlin-application-conventions")
+    id("redgreen.z.kotlin-application-conventions")
 }
 
 dependencies {
-    implementation("org.apache.commons:commons-text")
     implementation(project(":utilities"))
 }
 
 application {
     // Define the main class for the application.
-    mainClass.set("zalando.project.app.AppKt")
+    mainClass.set("redgreen.z.app.AppKt")
 }

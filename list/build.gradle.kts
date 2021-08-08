@@ -3,5 +3,5 @@
  */
 
 plugins {
-    id("zalando.project.kotlin-library-conventions")
+    id("redgreen.z.kotlin-library-conventions")
 }
